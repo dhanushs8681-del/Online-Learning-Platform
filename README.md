@@ -1,4 +1,4 @@
-# 🎓 Ask Me Identify — Online Learning Platform Landing Page
+# 🎓 Ask Me Identify — Online Learning Platform
 
 A fully responsive **Online Learning Platform Landing Page** built with pure **HTML** and **CSS**. Experience smooth animations, interactive testimonial cards and a modern gradient design that brings online education to life.
 
@@ -6,7 +6,7 @@ A fully responsive **Online Learning Platform Landing Page** built with pure **H
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Site](#)** _(Add your deployment link here)_
+🔗 **[View Live Site](https://online-learning-platforms.netlify.app)**
 
 ---
 
@@ -89,13 +89,13 @@ Askwidentify-Landing-Page/
 ├── index.html                  # Main HTML structure
 ├── style.css                   # All styles and animations
 ├── README.md                   # Project documentation
-├── Images/                     # All image assets
+├── Images                      # All image assets
 ```
 ---
 ### ⚙️ Setup & Installation
 
 1. Clone the repository:
-   git clone [https://github.com/Lokesh-web16/Online-Learning-Platform-Landing-Page](https://github.com/Lokesh-web16/Online-Learning-Platform-Landing-Page)
+   git clone https://github.com/dhanushs8681-del/Online-Learning-Platform
 
 2. Navigate into the folder:
     cd Online-Learning-Platform-Landing-Page
@@ -121,3 +121,4 @@ Askwidentify-Landing-Page/
 
 ## 📄 License
 This project is open-source and available under the MIT License.
+
