@@ -98,7 +98,7 @@ Askwidentify-Landing-Page/
    git clone https://github.com/dhanushs8681-del/Online-Learning-Platform
 
 2. Navigate into the folder:
-    cd Online-Learning-Platform-Landing-Page
+    cd Online-Learning-Platform
 
 3. Open index.html in your browser:
 - Double-click the file, OR
@@ -121,4 +121,5 @@ Askwidentify-Landing-Page/
 
 ## 📄 License
 This project is open-source and available under the MIT License.
+
 
