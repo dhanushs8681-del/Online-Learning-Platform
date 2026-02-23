@@ -115,11 +115,10 @@ Askwidentify-Landing-Page/
 | :--- | :--- | :--- | :--- |
 | 🖥️ **Desktop** | `> 768px` | `120px` | ✅ |
 | 📱 **Tablet** | `≤ 768px` | `100px` | ✅ |
-| 📱 **Mobile** | `≤ 520px` | `75px` | ✅ |
-| 📱 **Small Mobile** | `≤ 380px` | `65px` | ✅ |
 ---
 
 ## 📄 License
 This project is open-source and available under the MIT License.
+
 
 
